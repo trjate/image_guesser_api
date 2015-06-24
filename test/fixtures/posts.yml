@@ -1,0 +1,19 @@
+onepost:
+  image_url: www.google.com
+  answer: google
+
+twopost:
+  image_url: www.washingtonpost.com
+  answer: newspaper
+
+kitten_post:
+  image_url: kittens.com/kitten1
+  user_id: tjterris
+  answer: kitten
+  solution: true
+
+puppy_post:
+  image_url: puppies.com/puppy1
+  user_id: bsmith
+  answer: puppy
+  solution: false

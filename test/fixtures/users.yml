@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+oneperson:
+  username: anthonyfranco
+  full_name: Anthony Franco
+  email: afranco@abc.com
+  password: abcd
+
+twoperson:
+  username: trevorterris
+  full_name: Trevor Terris
+  email: tterris@abc.com
+  password: efgh
+
+one:
+  username: arfranco
+  full_name: Anthony Franco
+  email: tony12345@yahoo.com
+  password: rails
+
+two:
+  username: iescobar  
+  full_name: Iliana Escobar
+  email: escobar@brown.edu
+  password: birds

@@ -1,0 +1,12 @@
+kitten_post:
+  image_url: kittens.com/kitten1
+  user_id: tjterris
+  answer: kitten
+  solution: true
+
+puppy_post:
+  image_url: puppies.com/puppy1
+  user_id: bsmith
+  answer: puppy
+  solution: false
+
